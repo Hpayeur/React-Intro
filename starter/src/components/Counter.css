@@ -1,3 +1,11 @@
+h1 {
+  text-align: center;
+  font-family: "Lato";
+  font-size: 40px;
+  color: #333;
+  padding: 20px;
+  margin: 20px;
+}
 .container {
   text-align: center;
 }
@@ -54,16 +62,16 @@
 
 /* Button 2 */
 .btn-2 {
-  background: #2ecc71;
-  color: #fff;
+  background: #2e46cc;
+  color: #000000;
 }
 
 .btn-2:hover {
-  background: #27ae60;
+  background: #2e46cc;
 }
 
 .btn-2:active {
-  background: #27ae60;
+  background: #2e46cc;
   top: 2px;
 }
 
@@ -79,16 +87,16 @@
 
 /* Button 3 */
 .btn-3 {
-  background: #e74c3c;
-  color: #fff;
+  background: #cc2e2e;
+  color: #000000;
 }
 
 .btn-3:hover {
-  background: #c0392b;
+  background: #cc2e2e;
 }
 
 .btn-3:active {
-  background: #c0392b;
+  background: #cc2e2e;
   top: 2px;
 }
 
